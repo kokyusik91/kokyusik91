@@ -1,4 +1,7 @@
-### Hi there 👋
+### 규식's github
+
+## phone : 010-9347-2560
+## e-mail : kokyusik91@naver.com
 
 <!--
 **kokyusik91/kokyusik91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
