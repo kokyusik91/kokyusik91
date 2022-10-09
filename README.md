@@ -12,5 +12,5 @@
 ## Skills 🪛
 #### frequently 
 
-<img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" style="margin-right:17px"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/> 
+<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" style="margin-right:17px"/></a> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/> 
 
