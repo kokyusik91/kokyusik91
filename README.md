@@ -1,7 +1,6 @@
-# 규식's github
+# 규식코's Dev History 💻
 
-#### phone : 010-9347-2560
-#### e-mail : kokyusik91@naver.com
+현재는 프론트엔드 개발자이지만 풀스택을 지향합니다. 🧑🏻‍💻
 
 <!--
 **kokyusik91/kokyusik91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
